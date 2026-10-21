@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated project data
+network_traffic.csv
+ids_alerts.csv
+
+# Python environment
+.venv/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
