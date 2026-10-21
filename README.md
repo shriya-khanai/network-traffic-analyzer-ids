@@ -79,6 +79,10 @@ Other test scripts cover traffic spikes, repeated connections, suspicious ports,
 
 Use simulated test traffic to test detection logic safely. A passing simulated test does not by itself prove detection accuracy on real network traffic.
 
+## 📸 Project Output
+
+![Network Traffic Analyzer Output](analyzer-output.png)
+
 ## 🔒 Responsible Use
 
 Use packet capture only on networks and devices you own or have explicit permission to monitor. Detection alerts indicate potentially suspicious patterns; they do not automatically confirm malicious activity.
